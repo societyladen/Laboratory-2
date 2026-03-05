@@ -1,5 +1,5 @@
 ﻿open System
-
+//Задание 2
 let readStrings count =
     [ for index in 1 .. count do
         printf "Введите элемент %d: " index
