@@ -2,7 +2,7 @@
 
 F# №2
 
-Дорофеев Денис БАС-2 Лабораторная №1
+Дорофеев Денис БАС-2 Лабораторная №2
 
 Задание 1
 
@@ -24,7 +24,9 @@ F# №2
 
 Тестирование
 
-12312
+<img width="1473" height="219" alt="test1" src="https://github.com/user-attachments/assets/5b6e382a-9300-45c3-8cbc-f5fd79750121" />
+<img width="1472" height="299" alt="test2" src="https://github.com/user-attachments/assets/dc0c5362-4911-46d9-95c8-6689d484ef4d" />
+
 
 
 
@@ -45,4 +47,9 @@ F# №2
 
 
 Тестирование
+<img width="1473" height="219" alt="test1" src="https://github.com/user-attachments/assets/bfdbe9bc-cb0e-437e-bc6c-b469275cf5db" />
+<img width="1469" height="289" alt="test3" src="https://github.com/user-attachments/assets/d9d3c2b3-3947-4f36-9b1e-c695ee156fe2" />
+
+
+
 
