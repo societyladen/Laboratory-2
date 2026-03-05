@@ -24,6 +24,6 @@ let main args =
                     acc
             ) 0 strings
         
-        printfn "\nСписок строк: %A" strings
+        printfn "Список строк: %A" strings
         printfn "Строк с чётной длиной: %d" evenCount
         0
